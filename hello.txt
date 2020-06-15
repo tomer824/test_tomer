@@ -1,1 +1,3 @@
-Hello Everyone, are working on Git and Github
+Hello Everyone , are working on Git and Github
+
+Hi my name is Tzivia
